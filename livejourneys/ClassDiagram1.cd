@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="livejourneys.linklinetostation">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQIBEAFSACAAAFAAAYSIMBACAAAAIAAQAAAAABQMAAE=</HashCode>
+      <FileName>linklinetostation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="livejourneys.livejourneycwrk">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAABAAAACAAEACIIQAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>livejourneycwrk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="livejourneys.stations">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAECAGAAgBAEQASBAAACAEAAAAAAgAAAAgiIgQA=</HashCode>
+      <FileName>stations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="livejourneys.trainlines">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAgMCACAAABAUQASAAAACAAAAAAAAgAAAAgiIgQA=</HashCode>
+      <FileName>trainlines.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="livejourneys.trainmgmt">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACAAAABAAACAIAECAAAAgAAAAAASQAAEAAA=</HashCode>
+      <FileName>trainmgmt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="livejourneys.viewlinks">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AACAAEEAICAABBEEAICFIAiCQQAAAAAACQgIAAAMgAA=</HashCode>
+      <FileName>viewlinks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="livejourneys.database">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAIEAAAsABgAAAAAAAAAAAAAEAQAAAQAAAAvAAgEA=</HashCode>
+      <FileName>database.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

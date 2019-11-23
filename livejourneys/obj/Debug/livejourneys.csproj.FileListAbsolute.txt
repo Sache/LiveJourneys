@@ -1,0 +1,27 @@
+G:\sk3998h\3rd Year\PDCCwrk\livejourneys\bin\Debug\livejourneys.exe.config
+G:\sk3998h\3rd Year\PDCCwrk\livejourneys\bin\Debug\livejourneys.exe
+G:\sk3998h\3rd Year\PDCCwrk\livejourneys\bin\Debug\livejourneys.pdb
+G:\sk3998h\3rd Year\PDCCwrk\livejourneys\obj\Debug\livejourneys.csprojResolveAssemblyReference.cache
+G:\sk3998h\3rd Year\PDCCwrk\livejourneys\obj\Debug\livejourneys.livejourneycwrk.resources
+G:\sk3998h\3rd Year\PDCCwrk\livejourneys\obj\Debug\livejourneys.Properties.Resources.resources
+G:\sk3998h\3rd Year\PDCCwrk\livejourneys\obj\Debug\livejourneys.csproj.GenerateResource.Cache
+G:\sk3998h\3rd Year\PDCCwrk\livejourneys\obj\Debug\livejourneys.csproj.CoreCompileInputs.cache
+G:\sk3998h\3rd Year\PDCCwrk\livejourneys\obj\Debug\livejourneys.exe
+G:\sk3998h\3rd Year\PDCCwrk\livejourneys\obj\Debug\livejourneys.pdb
+I:\PDCCwrk\livejourneys\bin\Debug\livejourneys.exe.config
+I:\PDCCwrk\livejourneys\bin\Debug\livejourneys.exe
+I:\PDCCwrk\livejourneys\bin\Debug\livejourneys.pdb
+I:\PDCCwrk\livejourneys\obj\Debug\livejourneys.csprojResolveAssemblyReference.cache
+I:\PDCCwrk\livejourneys\obj\Debug\livejourneys.livejourneycwrk.resources
+I:\PDCCwrk\livejourneys\obj\Debug\livejourneys.Properties.Resources.resources
+I:\PDCCwrk\livejourneys\obj\Debug\livejourneys.csproj.GenerateResource.Cache
+I:\PDCCwrk\livejourneys\obj\Debug\livejourneys.csproj.CoreCompileInputs.cache
+I:\PDCCwrk\livejourneys\obj\Debug\livejourneys.exe
+I:\PDCCwrk\livejourneys\obj\Debug\livejourneys.pdb
+I:\PDCCwrk\livejourneys\obj\Debug\livejourneys.trainmgmt.resources
+I:\PDCCwrk\livejourneys\obj\Debug\livejourneys.trainlines.resources
+I:\PDCCwrk\livejourneys\bin\Debug\db.mdb
+I:\PDCCwrk\livejourneys\obj\Debug\livejourneys.stations.resources
+I:\PDCCwrk\livejourneys\obj\Debug\livejourneys.linklinetostation.resources
+I:\PDCCwrk\livejourneys\obj\Debug\livejourneys.viewlinks.resources
+I:\PDCCwrk\livejourneys\obj\Debug\livejourneys.stationstolines.resources
